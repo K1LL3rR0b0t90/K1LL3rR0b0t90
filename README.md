@@ -1,6 +1,6 @@
 👋 Hi, I’m Ross
 
-👀 I’m interested in Security
+👀 I’m interested in Cloud & Security
 
 🌱 I’m currently learning Python & Pentesting
 
